@@ -1,4 +1,5 @@
-*
-!.gitignore
-!faq-msegui
+/*/
+!/faq-msegui/
+
+/*.css
 !downstyler.css
