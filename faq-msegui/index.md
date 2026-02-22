@@ -2,7 +2,7 @@
 
 # Sommaire
 
-- [Choisir les polices de MSEide](police.html)
+- [Changer la police de MSEide](police.html)
 
 ---
 
