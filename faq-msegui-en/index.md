@@ -1,13 +1,13 @@
 ---
 
-# Sommaire de la FAQ MSEide+MSEgui
+# MSEide+MSEgui FAQ Summary
 
-- [Changer les polices de MSEide](police.html)
-- [Détecter les touches du clavier](onkeyup.html)
+- [Change MSEide fonts](police.html)
+- [Handle keyboard events](onkeyup.html)
 
 ---
 
-- [Page d'accueil du site](https://msegui.net/)
+- [Homepage](https://msegui.net/)
 
 <p style="text-align:left;font-size:smaller;">
 <script>
